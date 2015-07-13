@@ -1,4 +1,5 @@
 <?
+//connection parameters
 $servername = "localhost";
 $username = "root";
 $password = "root";

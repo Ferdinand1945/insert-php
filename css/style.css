@@ -14,11 +14,10 @@ header {
 }
 
 ul{
-margin: 0 auto;
+  margin: 0 auto;
 }
-li{}
 ul li{
-display: inline-block;
+  display: inline-block;
 }
 
 input{
@@ -40,8 +39,8 @@ a {
   text-decoration: none;
 }
 footer {
-background-color: #000;
-    margin:0 auto auto auto;
+  background-color: #000;
+  margin:0 auto auto auto;
 }
 
 .main-menu {
@@ -49,6 +48,6 @@ background-color: #000;
 }
 
 .main-form {
-margin: 20px;
-text-align: center;
+  margin: 20px;
+  text-align: center;
 }
