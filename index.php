@@ -3,9 +3,16 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <title>Insert data into a database</title>
   </head>
-  
-  
+
+
   <body>
+    <header>
+      <ul class="main-menu">
+        <li><a href="">link</a></li>
+        <li> <a href="">link</a></li>
+        <li><a href="">link</a></li>  
+      </ul>
+    </header>
     <form action="insert.php" method="post">
       <input type="text" name="name" /> 
       <input type="text" name="lastname" /><br />
@@ -19,5 +26,13 @@
       <input type="submit" value="Submit" name="submit">
 
     </form>
+    
+    <footer>
+          <ul class="main-menu">
+        <li><a href="">link</a></li>
+        <li> <a href="">link</a></li>
+        <li><a href="">link</a></li>  
+      </ul>
+    </footer>
   </body>
 </html>

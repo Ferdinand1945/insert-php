@@ -1,11 +1,25 @@
 body {
   background-color: #eee;
+  margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5 {
 
 }
 
+header {
+  background-color: #000;
+  height: 70px;
+  margin: 0 auto;
+}
+
+ul{
+margin: 0 auto;
+}
+li{}
+ul li{
+display: inline-block;
+}
 
 input{
   padding: 14px;
@@ -20,4 +34,16 @@ input[type="submit"] {
 }
 form {
 
+}
+a {
+  color: #eee;
+  text-decoration: none;
+}
+footer {
+background-color: #000;
+    margin:0 auto auto auto;
+}
+
+.main-menu {
+  padding: 30px;
 }
