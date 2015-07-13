@@ -1,6 +1,6 @@
 <?
-$host = "localhost";
-$user = "root";
-$pass = "root";
-$db = "dagi"; 
+$servername = "localhost";
+$username = "root";
+$password = "root";
+$dbname = "dagi";
 ?>
