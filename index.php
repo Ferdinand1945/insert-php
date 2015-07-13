@@ -1,5 +1,7 @@
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <title>Insert data into a database</title>
   </head>
   
   
